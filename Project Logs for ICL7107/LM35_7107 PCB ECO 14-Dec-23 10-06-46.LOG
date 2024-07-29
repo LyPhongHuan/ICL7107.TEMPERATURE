@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetD1_A Pin=D1-A
+Removed Pin From Net: NetName=NetD1_K Pin=D1-K
+Removed Pin From Net: NetName=NetD2_A Pin=D2-A
+Removed Pin From Net: NetName=NetD1_A Pin=D2-K
+Removed Pin From Net: NetName=NetD3_A Pin=D3-A
+Removed Pin From Net: NetName=NetD2_A Pin=D3-K
+Removed Pin From Net: NetName=NetD3_A Pin=R1-1
+Removed Pin From Net: NetName=+5V Pin=R1-2
+Removed Member From Class: ClassName=Sheet1 Member=R1
+Change Component Footprint: Designator=D1 Old Footprint=DO-213AA New Footprint=DIODE/POW/1A
+Change Component Footprint: Designator=D2 Old Footprint=DO-213AA New Footprint=DIODE/POW/1A
+Change Component Footprint: Designator=D3 Old Footprint=DO-213AA New Footprint=DIODE/POW/1A
+Added Component: Designator=R?(RES-1/4W)
+Added Pin To Net: NetName=NetD1_A Pin=D1-1
+Added Pin To Net: NetName=NetD1_K Pin=D1-2
+Added Pin To Net: NetName=NetD2_A Pin=D2-1
+Added Pin To Net: NetName=NetD1_A Pin=D2-2
+Added Pin To Net: NetName=NetD3_A Pin=D3-1
+Added Pin To Net: NetName=NetD2_A Pin=D3-2
+Added Pin To Net: NetName=NetD3_A Pin=R?-1
+Added Pin To Net: NetName=+5V Pin=R?-2
+Added Member To Class: ClassName=Sheet1 Member=Component R? 68R

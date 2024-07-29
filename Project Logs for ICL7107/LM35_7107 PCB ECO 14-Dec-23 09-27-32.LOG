@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+5V Pin=R1-1
+Removed Pin From Net: NetName=NetD3_A Pin=R1-2
+Change Component Footprint: Designator=R1 Old Footprint=RES-1/4W-SMALL New Footprint=RES-SMD-0805
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RES-1/4W-SMALL"; UniqueID = "\ITMWACNO" ("\ITMWACNO")
+Change component parameters (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD3_A Pin=R1-1
+Added Pin To Net: NetName=+5V Pin=R1-2
